@@ -10,7 +10,7 @@ Optionally also accepts a `size` query, which is just a number. This is the requ
 
 The response is a webp of the image, cropped to thumbnail using shannon entropy, encoded as a base64 string.
 
-Created as a practical example of the sharp image processing library, used on my website at [howdytaylor.com]{https://hiretaylor.com}
+Created as a practical example of the sharp image processing library, used on my website at [howdytaylor.com](https://howdytaylor.com)
 
 For example code showing how to use sharp with detailed explainations visit my [sharp-example repo](https://github.com/Theagentxero/sharp-example)
 
